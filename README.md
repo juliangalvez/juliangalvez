@@ -11,5 +11,5 @@ HTML, CSS, Javascript, React, Redux, Node.js, Express.js, PostgresSQL, Sequelize
 
 
 🔸julianegalvez@gmail.com
-🔸www.linkedin.com/in/julian-galvez
+🔸http://www.linkedin.com/in/julian-galvez
 
