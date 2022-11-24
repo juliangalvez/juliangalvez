@@ -7,9 +7,10 @@ I am also like to compose music, meditate and hiking. I like to work in a team a
 
 
 ## 🛠 Skills
-HTML, CSS, Javascript, React, Redux, Node.js, Express.js, PostgresSQL, Sequelize, Unity3D (C#), Figma, Illustrator, Scrum
+HTML, CSS, Javascript, React, Redux, Node.js, Express.js, PostgresSQL, Sequelize, TypeScript, Next.js, Unity3D (C#), Figma, Illustrator, Scrum
 
 
-🔸julianegalvez@gmail.com
+🔸Portfolio: https://juliangalvez.tech
+🔸contact@juliangalvez.tech
 🔸http://www.linkedin.com/in/julian-galvez
 
